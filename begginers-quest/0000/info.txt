@@ -44,3 +44,6 @@ mono-alphabetic substipution
 
 challenge 3 
 
+Transposition␣ciphers␣are␣a␣type␣of␣encryption␣algorithm␣that␣works␣by␣rearranging␣the␣order␣of␣characters␣in␣a␣plaintext␣message.␣Unlike␣substitution␣ciphers,␣which␣replace␣characters␣with␣other␣characters,␣transposition␣ciphers␣keep␣all␣of␣the␣original␣characters␣intact.␣The␣ciphertext␣is␣created␣by␣rearranging␣the␣plaintext␣letters␣according␣to␣a␣predetermined␣rule␣or␣key.␣FLAG{caesar_would_have_liked_these_columns}XXXX
+
+it took me around an hour, many combinations, after all it appeared, taht transpositon is necessary with 6 text, and the reverse is needed
