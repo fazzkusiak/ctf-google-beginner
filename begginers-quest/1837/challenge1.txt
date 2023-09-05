@@ -2,3 +2,9 @@
 
 its about replacing these a,o signs with other char, that crashed it, todo later, same in the first task, however there are a little bit less
 
+finally, it took me a while
+after some reasearch, according to the tip of hint, pemberton has used keys such as ManchesterBluff, CompleteVictory.  after connecting them into key of vgienere cipher(hint) we get SOLDIERWEHAVEINTERCEPTEDTHEENE
+
+doesnt owrk as flag, however if we use it as flag it works
+
+FLAG{MANCHESTERBLUFFCOMPLETEVICTORY}
