@@ -1,0 +1,6 @@
+there is an audio with morse code playing, so currently Im using audio decoder, gonna see how it will work
+
+
+G X A G G A D X G G F X X X F G D D G X A G F X F A V G F X D V A V A G F G X F X G F D F D F G V G F X G F X A V X V G X V A D X G V G X X X V G A V D X V V X A A D V D F X D D F V G X X D G X G G G F A X F X D D G D G D X G D A A X F V A F F X D F F G F A G X G X G G D F F X V A V X F G F X G X A V D G X D G D X A F F A F V V D D A X X V X V F V X D X D G X G V D X F F F G A V A F F A X X F A X A G D X F X D X V X F X G A D X V V G V X X F X G D G A A F A V X V A A X F F F A D D A A V D D A A X F F D D G D G V D D A G A F A F F D V
+
+thats what I get from classic morse corde
