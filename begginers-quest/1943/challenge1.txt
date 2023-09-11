@@ -1,0 +1,15 @@
+literally did it again, have to take course on vim again
+
+so Ive just deleted whole file ,again
+
+anyway, I logged into server and I got weird base64 4 strings, encoded and get weird things, below the sample one
+
+
+
+mjT-4n
+CJD[
+c-[׊-1{&h$EeЀO..UizjG
+
+so, I m looking for a way, something with one multi-timepad ? i dont know yet, however
+
+
