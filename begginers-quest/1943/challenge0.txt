@@ -1,0 +1,13 @@
+can't believe taht Ive just deleted whole file with my way
+anyway, I got this
+
+so, first u have to connect to given server in instruction
+
+after taht in the spam u can enter passsword to get access
+
+after passing there decrypted message given in desc (base64) u got the flag
+
+Sidney's here. Get ready to capture the              ║
+ ╔══════════════╗ ║      CTF{Ace_of_Spies}
+
+ 
