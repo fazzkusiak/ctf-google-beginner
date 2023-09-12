@@ -1,0 +1,9 @@
+forunately, I was able to connect by telnet, instead of downloading atari compiler and mounting as system
+so, I ve connected, now its time to find the flag somehow
+An array and a loop helped to hide a flag, can you reverse this to get the flag?
+
+whatever it menas
+
+ok, after launching the program it appears, that its built to check, if the flag has 42 signs, and if their chars are in the given regex, if yes, they are copied to the string.
+however, at the end we have MELBORP_A_EVLOS_OT_SDRAWKCAB_GNIKROW with DATA command, so I've added FLAG{MELBORP_A_EVLOS_OT_SDRAWKCAB_GNIKROW}, but with the flag in backwards order, as its written in the description. worked, so that's the solution Ive been looking for
+
