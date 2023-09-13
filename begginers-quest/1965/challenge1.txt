@@ -1,0 +1,9 @@
+after loading the file, in data we have written 
+M,R,_,_,T,_,M,S,N,_,R
+910 DATA A,I,I,A,W,D,E,I,A,A,A
+920 DATA T,X,S,_,O,I,N,O,L,R,Y
+
+something like that, cant copy it better, however we can see that the flag should be like
+MATRIX_IS_A_TWO_DIMENSIONAL_ARRAY
+W
+when we wrap it into FLAG{} we got the solution
