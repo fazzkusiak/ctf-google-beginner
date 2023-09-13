@@ -1,0 +1,18 @@
+
+if I could copy it somehow
+
+
+900 DATA &HD3,&HD4,&HC1,&HCE,&HC4,&HC1,&HD2,&HC4,&HDF,&HC3                                   910 DATA &HCF,&HC4,&HC5,&HDF,&HC6,&HCF,&HD2,&HDF,&HC9,&HCE                                   920 DATA &HC6,&HCF,&HD2,&HCD,&HC1,&HD4,&HC9,&HCF,&HCE,&HDF                                   930 DATA &HC9,&HCE,&HD4,&HC5,&HD2,&HC3,&HC8,&HC1,&HCE,&HC7                                   940 DATA &HC5
+
+made it, not the best format
+
+it looks like hexadecimal format
+
+idk, gonna back to it
+
+
+
+
+
+
+
