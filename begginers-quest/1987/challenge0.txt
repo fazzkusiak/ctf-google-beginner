@@ -1,0 +1,9 @@
+so, I've connected to the given address
+found in the admin catalog (im an user) file fortune_teller.txt (something like thta), cant access it obviously
+
+found the fortune_teller.pl script, where honestly i don't know what does note with shroom measn, obviously cnat copy it here, gonna learn it soon, actually those 2 challenges are happening on the same address
+back to it, idk how to solve it, probably the most obvious way, as always
+
+I think I need some fresh mind to see that, idk honestly, dont wanna go ahead and back to it later
+
+
